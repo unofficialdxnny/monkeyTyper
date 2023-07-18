@@ -5,10 +5,6 @@ A monkey type bot
 
 ![image](https://github.com/unofficialdxnny/monkeyTyper/assets/82535503/b711fc75-8a89-48aa-84f4-40897c21b545)
 
-
-https://github.com/unofficialdxnny/monkeyTyper/assets/82535503/bec80f20-068a-44dd-bd30-c8927bec3198
-
-
 # Usage
 
 - Edit your `config.json` file.
@@ -16,7 +12,7 @@ https://github.com/unofficialdxnny/monkeyTyper/assets/82535503/bec80f20-068a-44d
 - To make the bot faster or slower change the value inside of the `sleep()` in line `55`
 
 
-NOTE: Changing the `sleep()` to anything less than `0.35` will trigger the site and it wont save your data
+NOTE: Changing the `sleep()` to anything less than `0.35` will trigger the site and it wont save your data  
 - Finally to run the bot open terminal and type `python main.py`
 
 
