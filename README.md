@@ -10,8 +10,9 @@ A monkey type bot
 - Edit your `config.json` file.
 - install the requirements `pip install -r requirements.txt`
 - To make the bot faster or slower change the value inside of the `sleep()` in line `55`
-<br>
-**NOTE: Changing the sleep() to anything less than 0.35 will trigger the site and it wont save your data**
+
+
+NOTE: Changing the `sleep()` to anything less than `0.35` will trigger the site and it wont save your data
 - Finally to run the bot open terminal and type `python main.py`
 
 
